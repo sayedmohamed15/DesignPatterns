@@ -1,0 +1,18 @@
+{
+    "name": "sayed/design-patterns",
+    "description": "code examples for design patterns",
+    "authors": [
+        {
+            "name": "sayed mohamed",
+            "email": "sayed.mohamed@4sale.tech"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "8.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Creational\\" : "Creational"
+        }
+    }
+}
