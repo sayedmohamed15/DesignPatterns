@@ -1,10 +1,11 @@
 {
-    "name": "sayed/design-patterns",
-    "description": "code examples for design patterns",
+
+    "name": "sayed/design-patterns-examples",
+    "description": "design patterns examples",
     "authors": [
         {
             "name": "sayed mohamed",
-            "email": "sayed.mohamed@4sale.tech"
+            "email": "eng.sayed151@yahoo.com"
         }
     ],
     "require": {

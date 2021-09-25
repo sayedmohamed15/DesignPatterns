@@ -17,4 +17,5 @@ class BMWCar implements CarInterface
         // TODO: Implement calculatePrice() method.
         return $this->price + 120000;
     }
+
 }
