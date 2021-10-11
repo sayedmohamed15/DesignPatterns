@@ -20,7 +20,6 @@ class AbstractFactoryTest extends TestCase
      {
          $myBMWCar = $this->careFactory->createBMWCar();
          $this->assertInstanceOf(BMWCar::class , $myBMWCar);
-
      }
      public function testCanCreateBenzCar(){
          $myBenzCar = $this->careFactory->createBenzCar();
